@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "node index.js"  // Replace with your main file
+  }
+}
